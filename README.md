@@ -16,10 +16,7 @@ Arabic AI brand focused on:
 
 ## ⚡ Content
 
-- AI Prompts
-- Humanizers
-- Productivity Systems
-- AI Workflows
+Advanced AI prompts and systems.
 
 ---
 
