@@ -26,7 +26,7 @@ This prompt rewrites AI-generated text into natural human writing.
 # 🧠 How To Use
 
 1. Copy the prompt
-2. Paste it into ChatGPT
+2. Paste it into Claude
 3. Add your text
 4. Generate humanized content
 
@@ -262,7 +262,3 @@ Based on Wikipedia:Signs of AI writing, maintained by WikiProject AI Cleanup.
 
 ---
 
-# 📬 Follow Me
-
-Facebook:
-Telegram:
