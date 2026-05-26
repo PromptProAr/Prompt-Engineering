@@ -3,7 +3,7 @@
 ![AI](https://img.shields.io/badge/AI_PROMPT_ENGINEERING-444444?style=flat-square)
 ![Minimal](https://img.shields.io/badge/MINIMAL_STYLE-666666?style=flat-square)
 
-AI Prompt Engineering Brand
+> Building advanced AI prompts and systems.
 
 ---
 
@@ -23,7 +23,7 @@ Advanced AI prompts and systems.
 
 ---
 
-## 📬 Platforms
+## 🌐 Platforms
 
 - YouTube
 - Facebook
