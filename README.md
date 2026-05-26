@@ -1,7 +1,7 @@
 # 🚀 PROMPT PRO
-![Prompt Pro](https://img.shields.io/badge/PROMPT-PRO-111111?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-PROMPT_ENGINEERING-444444?style=for-the-badge)
-![Style](https://img.shields.io/badge/STYLE-MINIMAL-888888?style=for-the-badge)
+![Prompt Pro](https://img.shields.io/badge/PROMPT_PRO-222222?style=flat-square)
+![AI](https://img.shields.io/badge/AI_PROMPT_ENGINEERING-444444?style=flat-square)
+![Minimal](https://img.shields.io/badge/MINIMAL_STYLE-666666?style=flat-square)
 
 AI Prompt Engineering Brand
 
