@@ -8,9 +8,8 @@
 
 # 📌 About
 
-Advanced AI Humanizer Prompt.
+Advanced AI humanization protocol designed to rewrite AI-generated text into natural human writing.
 
-This prompt rewrites AI-generated text into natural human writing.
 
 ---
 
