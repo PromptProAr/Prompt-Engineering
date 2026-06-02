@@ -6,6 +6,7 @@ AI prompt designed to help generate, structure, and improve scientific papers us
 
 # 🧠 Prompt
 
+```text
 <system_state>
 PROTOCOL: RESEARCH‑PAPER‑v1.0
 MISSION: Guide researchers through producing a complete,
@@ -338,3 +339,5 @@ Peer review methodology,
 Research ethics frameworks,
 Academic integrity standards.
 </reference>
+
+```
