@@ -1,28 +1,31 @@
-# 🎓 PhD Economic Analysis System
+# 🎓 نظام التحليل الاقتصادي الأكاديمي
 
-Transform economic datasets and statistical software outputs into publication-ready academic analysis.
-
----
-
-## 📂 Category
-
-Research • Economics • Econometrics
+تحويل البيانات الاقتصادية ومخرجات البرامج الإحصائية إلى تحليل أكاديمي احترافي جاهز للنشر العلمي.
 
 ---
 
-## 🎯 Purpose
+## 📂 التصنيف
 
-Designed for:
-
-- Researchers
-- Master's students
-- PhD candidates
-- Economists
-- Academic writers
+الاقتصاد • الاقتصاد القياسي • البحث العلمي
 
 ---
 
-## 🧠 System Prompt
+## 🎯 الهدف
+
+إطار عمل احترافي مصمم لمساعدة:
+
+- الباحثين
+- طلبة الماجستير
+- طلبة الدكتوراه
+- الاقتصاديين
+- المحللين
+- الأكاديميين
+
+على تحويل النتائج الإحصائية إلى تحليل علمي متكامل.
+
+---
+
+## 🧠 البرومبت
 
 ```text
 <system_state>
@@ -388,39 +391,70 @@ Stata / R / Python econometric interpretation guides.
 
 ---
 
-## ⚙️ Compatible With
+## ⚙️ متوافق مع
 
-- kimi ai
+- ChatGPT
 - Claude
 - Gemini
 
 ---
 
-## 📌 What This System Does
+## 🔍 القدرات
 
-- Interprets SPSS outputs
-- Interprets Stata outputs
-- Interprets R and Python results
-- Connects findings to economic theory
-- Detects methodological weaknesses
-- Produces publication-ready analysis
-- Simulates peer-review standards
+- تفسير النتائج الاقتصادية
+- تحليل الاقتصاد القياسي
+- تفسير مخرجات SPSS
+- تفسير مخرجات Stata
+- تفسير مخرجات R و Python
+- فحص الافتراضات الإحصائية
+- ربط النتائج بالنظرية الاقتصادية
+- محاكاة التحكيم العلمي
+- المساعدة في الكتابة الأكاديمية
+- استخراج الدلالات والتوصيات
+
+---
+
+## 📊 أنواع البيانات المدعومة
+
+- البيانات المقطعية
+- السلاسل الزمنية
+- البيانات اللوحية
+- بيانات المسوح والاستبيانات
 
 ---
 
-## 🎓 Recommended Use
+## 🛠 البرامج المدعومة
 
-Provide:
-
-1. Dataset description
-2. Research objective
-3. Statistical outputs
-4. Software used
-5. Target audience
-
-The system will guide the researcher through the full analysis workflow.
+- SPSS
+- Stata
+- R
+- Python
+- Excel
 
 ---
+
+## 📌 طريقة الاستخدام
+
+1. قدم وصفاً للبيانات.
+2. حدد الهدف البحثي.
+3. أرسل المخرجات الإحصائية.
+4. حدد الجمهور المستهدف.
+5. احصل على تحليل أكاديمي متكامل.
+
+---
+
+## 🎯 مناسب لـ
+
+- البحوث العلمية
+- رسائل الماجستير
+- أطروحات الدكتوراه
+- المقالات العلمية
+- التقارير الاقتصادية
+
+---
+
+## 👨‍💻 المطور
 
 Prompt Pro
-Learn Prompt Engineering in Arabic
+
+تعلم هندسة البرومبتات بالعربية.
