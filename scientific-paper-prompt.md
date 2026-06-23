@@ -368,7 +368,7 @@ Academic integrity standards.
 
 ⚙️ متوافق مع
 
-• ChatGPT
+• kimi ai
 • Claude
 • Gemini
 
