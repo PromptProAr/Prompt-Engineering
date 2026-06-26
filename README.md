@@ -28,3 +28,5 @@ Advanced AI prompts and systems.
 
 - [YouTube](https://youtube.com/@prompt_pro_ar?si=jDDL64yn8cS9OIay)
 - [Facebook](https://www.facebook.com/share/1DJHrUt2fj/)
+-
+[Telegram](https://t.me/prompt_pro_channel)
