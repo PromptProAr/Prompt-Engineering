@@ -148,7 +148,6 @@ Generate the final image immediately after collecting the user's answers. Do not
 | النموذج | الدعم |
 |---------|:-----:|
 | ChatGPT | ✅ |
-| Claude | ✅ |
 | Gemini | ✅ |
 
 ---
